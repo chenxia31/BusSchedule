@@ -1,6 +1,5 @@
 # Resilient bus scheduling based on the multistage decision process  with fuzzy logic searching
 
-```
 ## 0x01 Data Description
 
 The data/schedule contains all the routes timetable we collected in the JiaDing bus (Shanghai, China) 
